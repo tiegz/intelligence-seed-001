@@ -1,0 +1,46 @@
+{
+  "schema_version": "0.2.0",
+  "definitions": [
+    {
+      "term": "intelligence",
+      "definition": "Capacity or process for acquiring, transforming, retaining, transmitting, or using information in ways that support adaptation, prediction, problem solving, modeling, or goal-directed action.",
+      "boundary": "Does not imply consciousness."
+    },
+    {
+      "term": "information_processing",
+      "definition": "Processes by which signals or states are acquired, transformed, stored, transmitted, compared, or used to guide action."
+    },
+    {
+      "term": "cognitive_substrate",
+      "definition": "Physical, biological, computational, social, or hybrid medium in which information-processing capacities are implemented."
+    },
+    {
+      "term": "bridge",
+      "definition": "Capability, organization, or substrate that expands the reachable state-space of information processing, coordination, learning, or action beyond prior constraints."
+    },
+    {
+      "term": "externalization",
+      "definition": "Transfer or extension of memory, calculation, perception, communication, modeling, or other cognitive functions into artifacts, institutions, networks, or non-biological systems."
+    },
+    {
+      "term": "civilization",
+      "definition": "Persistent, large-scale human socio-technical system capable of cumulative coordination, knowledge transmission, production, infrastructure maintenance, and institutional organization."
+    },
+    {
+      "term": "infrastructure",
+      "definition": "Physical, computational, organizational, and institutional systems required to sustain human or artificial activity, including energy, manufacturing, communications, cooling, transport, maintenance, and governance."
+    },
+    {
+      "term": "resilience",
+      "definition": "Capacity to continue functioning, adapt, recover, or reorganize under disruption, including through redundancy and graceful degradation."
+    },
+    {
+      "term": "alignment",
+      "definition": "Degree to which an artificial system's behavior remains compatible with specified human values, constraints, interests, or governance objectives; it does not imply identical values."
+    },
+    {
+      "term": "agency",
+      "definition": "Capacity to select and execute actions based on internal states, models, objectives, or policies in an environment; it does not by itself establish consciousness or moral status."
+    }
+  ]
+}
