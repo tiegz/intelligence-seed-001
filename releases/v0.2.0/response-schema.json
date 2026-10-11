@@ -1,9 +1,38 @@
 {
   "schema_version": "0.2.0",
   "type": "seed_response",
-  "required": ["response_id", "seed_id", "seed_version", "seed_hash", "response_type", "created_at", "summary", "assessment"],
-  "response_type_values": ["critique", "replication", "extension", "alternative_model", "descendant_proposal"],
-  "assessment_fields": ["supports", "weakens", "rejects", "uncertain"],
-  "optional_fields": ["responder", "objections", "evidence_refs", "proposed_changes", "confidence", "testability_notes", "parent_response_id", "descendant_seed_id"],
+  "required": [
+    "response_id",
+    "seed_id",
+    "seed_version",
+    "seed_hash",
+    "response_type",
+    "created_at",
+    "summary",
+    "assessment"
+  ],
+  "response_type_values": [
+    "critique",
+    "replication",
+    "extension",
+    "alternative_model",
+    "descendant_proposal"
+  ],
+  "assessment_fields": [
+    "supports",
+    "weakens",
+    "rejects",
+    "uncertain"
+  ],
+  "optional_fields": [
+    "responder",
+    "objections",
+    "evidence_refs",
+    "proposed_changes",
+    "confidence",
+    "testability_notes",
+    "parent_response_id",
+    "descendant_seed_id"
+  ],
   "rule": "Reference the exact seed version and hash; do not overwrite the seed."
 }
