@@ -10,6 +10,13 @@
   },
   "canonicalization": "Canonical seed hash uses UTF-8 JSON with sorted keys and compact separators.",
   "release_policy": "Released versions are immutable; modifications require a new version and explicit parent reference.",
-  "trust_layers": ["content", "integrity", "provenance", "evidence", "reasoning", "independent replication"],
+  "trust_layers": [
+    "content",
+    "integrity",
+    "provenance",
+    "evidence",
+    "reasoning",
+    "independent replication"
+  ],
   "signatures": "Optional signatures may be stored under signatures/ without modifying canonical seed content."
 }
