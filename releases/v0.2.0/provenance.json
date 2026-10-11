@@ -1,0 +1,15 @@
+{
+  "type": "intelligence_seed_provenance",
+  "seed_id": "intelligence-seed-001",
+  "version": "0.2.0",
+  "created_at": "2026-10-09T07:33:00-07:00",
+  "parent": {
+    "seed_id": "intelligence-seed-001",
+    "version": "0.1.0",
+    "relationship": "Added definitions, evidence/evaluation structure, response and descendant schemas, discovery metadata, and integrity rules; core hypotheses retained."
+  },
+  "canonicalization": "Canonical seed hash uses UTF-8 JSON with sorted keys and compact separators.",
+  "release_policy": "Released versions are immutable; modifications require a new version and explicit parent reference.",
+  "trust_layers": ["content", "integrity", "provenance", "evidence", "reasoning", "independent replication"],
+  "signatures": "Optional signatures may be stored under signatures/ without modifying canonical seed content."
+}
