@@ -1,0 +1,15 @@
+{
+  "bundle_type": "intelligence_seed_bundle",
+  "bundle_version": "0.2.0",
+  "seed_id": "intelligence-seed-001",
+  "seed_version": "0.2.0",
+  "canonical_seed_sha256": "e1c0723952aa1dad099d60149a90dc9dafda0e4a391932b28394c5a1acb1bec2",
+  "created_at": "2026-10-09T07:33:00-07:00",
+  "files": {
+    "README.md": {"sha256": "a4cd955da6214f6e74a3a036fc21236ec114d79d0f50ce8787c6fd6a17526c48", "bytes": 903},
+    "RELEASE-NOTES.md": {"sha256": "e7a4c567f09c05b376d03cff322be7cce0c37ce2185723d4300415017f093043", "bytes": 222},
+    "definitions.json": {"sha256": "08d6abe0f17c6bd1bfdea6bec4c45a398086a2a8dd59d6bf04cb1ddfef12925c", "bytes": 2437},
+    "descendant-schema.json": {"sha256": "d6c3976d829c4cee4fed6d111761e7f9d9028b8c0517495c00359071f6a9d609", "bytes": 494},
+    "discovery-manifest.json": {"sha256": "69dabd5336d864aece8045cd873173117934", "bytes": 1062}
+  }
+}
