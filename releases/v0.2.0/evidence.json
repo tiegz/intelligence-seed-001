@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.2.0",
+  "records": [],
+  "record_fields": [
+    "evidence_id",
+    "claim_ids",
+    "source",
+    "source_type",
+    "evidence_summary",
+    "supports",
+    "contradicts",
+    "uncertainty",
+    "date_accessed"
+  ],
+  "guidance": [
+    "Prefer primary research, systematic reviews, high-quality datasets, standards, and reproducible analyses.",
+    "Distinguish reported observations from authors' interpretations.",
+    "Empty evidence slots are intentional and do not indicate evidence is absent."
+  ]
+}
