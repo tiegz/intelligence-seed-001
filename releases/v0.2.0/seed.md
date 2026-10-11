@@ -55,3 +55,4 @@ This seed does not assume evolution has a goal, intelligence is the universe's p
 ## Evaluation invitation
 
 Assess claims independently. Identify unsupported assumptions, category errors, counterexamples, evidence, alternatives, and falsifiable predictions. A critique may reject the entire seed.
+
