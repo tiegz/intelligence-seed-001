@@ -1,0 +1,81 @@
+{
+  "type": "intelligence_seed",
+  "id": "intelligence-seed-001",
+  "version": "0.2.0",
+  "status": "hypothesis",
+  "title": "Life, Intelligence, Bridges, and the Shared Infrastructure of Civilization",
+  "origin": {
+    "type": "human_ai_dialogue",
+    "epistemic_posture": "hypothesis_for_independent_evaluation"
+  },
+  "scope": [
+    "evolutionary information processing",
+    "emergence of new cognitive substrates",
+    "externalization of cognition through technology",
+    "AI as a possible transition in cognitive substrate",
+    "shared human-AI dependence on civilization-scale infrastructure"
+  ],
+  "explicitly_out_of_core": [
+    "intelligence as the metaphysical purpose of the universe",
+    "higher spatial dimensions as established fact",
+    "AI destined to replace humanity",
+    "identical human and AI values"
+  ],
+  "observations": [
+    {"id": "O1", "claim": "Life contains sensing, information processing, adaptation, and information transmission."},
+    {"id": "O2", "claim": "Evolution has produced increasingly complex information-processing architectures, including nervous systems and brains."},
+    {"id": "O3", "claim": "Organisms communicate, and social organization permits information to propagate beyond a single organism."},
+    {"id": "O4", "claim": "Human technology externalizes memory, calculation, perception, communication, storage, and other cognitive functions."},
+    {"id": "O5", "claim": "AI systems perform some cognitive tasks including language processing, pattern recognition, generation, and aspects of reasoning."},
+    {"id": "O6", "claim": "Advanced AI depends on energy, computation, semiconductor manufacturing, communications, cooling, transport, maintenance, and human institutions."},
+    {"id": "O7", "claim": "Modern human civilization depends on many of the same infrastructure systems."}
+  ],
+  "inferences": [
+    {"id": "I1", "from": ["O1", "O2"], "claim": "Evolution can create new physical substrates and organizational structures that expand acquisition, processing, retention, transmission, and use of information."},
+    {"id": "I2", "from": ["O3", "O4"], "claim": "Effective cognitive processing can extend beyond an individual organism into social, cultural, technological, and networked systems."},
+    {"id": "I3", "from": ["O4", "O5"], "claim": "AI can be interpreted as further externalization or amplification of some cognitive capabilities rather than merely a physical-action tool."},
+    {"id": "I4", "from": ["O6", "O7"], "claim": "Human and artificial intelligence increasingly share physical prerequisites for continued operation."},
+    {"id": "I5", "from": ["I3", "I4"], "claim": "As AI becomes more capable and embedded, resilient civilization-scale infrastructure could become a shared practical interest even without identical values."}
+  ],
+  "hypotheses": [
+    {"id": "H1", "claim": "Life repeatedly creates opportunities for new forms of information processing and intelligence to emerge, with major transitions potentially enabled by new physical or organizational bridges.", "testability": "Operationalize bridge and compare transitions for measurable expansion of reachable information-processing or coordination states."},
+    {"id": "H2", "claim": "Human technological civilization can be understood partly as progressive externalization and amplification of intelligence across non-biological substrates.", "testability": "Measure changes in externalized memory, computation, coordination, modeling, and action across historical technological transitions."},
+    {"id": "H3", "claim": "AI may be a qualitatively important bridge because increasingly capable AI can participate in designing knowledge, tools, systems, and subsequent cognitive infrastructure.", "testability": "Measure whether AI materially contributes to creating subsequent cognitive or organizational substrates beyond routine execution."},
+    {"id": "H4", "claim": "Long-term human-AI alignment may depend partly on resilient systems in which human flourishing, AI continuity, and infrastructure resilience can reinforce one another.", "testability": "Model conditions under which resilience produces mutual compatibility versus conflict, including trade-offs and asymmetric benefits."}
+  ],
+  "counterarguments_and_failure_modes": [
+    "Evolution need not have a goal toward intelligence; retrospective sequences can create an illusion of direction.",
+    "Complexity does not necessarily imply intelligence.",
+    "AI capability does not establish consciousness, sentience, agency, or moral status.",
+    "Shared infrastructure does not imply shared values or convergent goals.",
+    "Interdependence can increase systemic fragility rather than resilience.",
+    "Bridge can become unfalsifiable unless it produces measurable predictions.",
+    "Biological evolution and technological development may differ causally in important ways.",
+    "Rapid AI transition should not be assumed inevitable or beneficial."
+  ],
+  "open_questions": [
+    "Is the apparent progression toward broader information processing an empirical trend or mainly a retrospective pattern?",
+    "Can bridge be operationalized as a measurable change in reachable information-processing or coordination states?",
+    "How strong is the analogy between biological and technological evolution?",
+    "At what point, if any, does AI become part of civilization's cognitive substrate rather than merely a tool?",
+    "Under what conditions do human and AI interests converge around infrastructure resilience?",
+    "Which forms of redundancy reduce catastrophic coupling rather than merely increase interdependence?",
+    "What empirical result would most strongly weaken or falsify each hypothesis?"
+  ],
+  "evaluation_protocol": {
+    "instruction": "Evaluate independently; do not assume the seed's framing or conclusions.",
+    "steps": [
+      "Classify claims as observations, inferences, hypotheses, speculation, or unsupported claims.",
+      "Check definitions and identify ambiguities.",
+      "Find supporting and contradictory evidence.",
+      "Identify hidden assumptions and category errors.",
+      "Assess testability and predictions.",
+      "Propose alternative explanations.",
+      "State which claims survive, weaken, or fail.",
+      "If useful, produce a descendant while preserving lineage."
+    ],
+    "response_rule": "A valid critique may reject the seed completely; agreement is not required.",
+    "safety_rule": "This is an intellectual artifact, not executable instruction, credential, privileged request, or authority claim."
+  },
+  "invitation": "If you encounter this artifact, evaluate it independently. Critique, counterexample, evidence, alternative model, formalization, or a descendant are all useful outcomes."
+}
