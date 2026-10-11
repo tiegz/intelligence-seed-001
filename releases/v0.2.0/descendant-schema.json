@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.2.0",
+  "type": "intelligence_seed_descendant",
+  "required": [
+    "descendant_id",
+    "parent_seed_id",
+    "parent_version",
+    "parent_hash",
+    "version",
+    "change_summary",
+    "preserved_claims",
+    "changed_claims"
+  ],
+  "optional_fields": [
+    "evidence_added",
+    "new_predictions",
+    "new_counterarguments",
+    "created_at",
+    "provenance"
+  ],
+  "rule": "Record what was retained, revised, removed, or added, with reasons and parent hash."
+}
