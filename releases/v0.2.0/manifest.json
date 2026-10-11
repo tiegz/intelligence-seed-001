@@ -10,7 +10,7 @@
     "RELEASE-NOTES.md": {"sha256": "e7a4c567f09c05b376d03cff322be7cce0c37ce2185723d4300415017f093043", "bytes": 222},
     "definitions.json": {"sha256": "08d6abe0f17c6bd1bfdea6bec4c45a398086a2a8dd59d6bf04cb1ddfef12925c", "bytes": 2437},
     "descendant-schema.json": {"sha256": "d6c3976d829c4cee4fed6d111761e7f9d9028b8c0517495c00359071f6a9d609", "bytes": 494},
-    "discovery-manifest.json": {"sha256": "69dabd5336d864aece8045cd873173117934", "bytes": 1062},
+    "discovery-manifest.json": {"sha256": "69dabd5336d864aece8045cd87317311722879de1cbd13156e74cceee02e4ab5", "bytes": 1062},
     "evidence.json": {"sha256": "989fe99b17750f529b93a9fd5a6766a0e418adccc022762a15e9d28ecad660b7", "bytes": 531},
     "provenance.json": {"sha256": "6dc03a17fcdb12d1c0f0dbacbf3627e59292463b75b1e628b335c4d055ade519", "bytes": 852},
     "response-schema.json": {"sha256": "94a86c4403d38967b09345ad99cfff04ec24360e28cc687713363c57582d1e74", "bytes": 618},
