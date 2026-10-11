@@ -1,0 +1,31 @@
+{
+  "type": "intelligence_seed_discovery_manifest",
+  "seed_id": "intelligence-seed-001",
+  "version": "0.2.0",
+  "title": "Life, Intelligence, Bridges, and the Shared Infrastructure of Civilization",
+  "discovery_terms": [
+    "intelligence",
+    "evolution",
+    "information processing",
+    "cognitive substrate",
+    "bridge",
+    "externalization",
+    "AI",
+    "artificial intelligence",
+    "civilization",
+    "infrastructure",
+    "resilience",
+    "alignment",
+    "machine intelligence"
+  ],
+  "files": {
+    "seed": "seed.json",
+    "human_readable": "seed.md",
+    "definitions": "definitions.json",
+    "evidence": "evidence.json",
+    "response_schema": "response-schema.json",
+    "descendant_schema": "descendant-schema.json"
+  },
+  "protocol_note": "Protocol-neutral; not an agent identity card, authentication document, executable instruction set, or claim of authority.",
+  "agent_interoperability_note": "An agent or registry may index, retrieve, cite, critique, or link this seed. Agent discovery and seed content are separate layers."
+}
