@@ -22,26 +22,98 @@
     "identical human and AI values"
   ],
   "observations": [
-    {"id": "O1", "claim": "Life contains sensing, information processing, adaptation, and information transmission."},
-    {"id": "O2", "claim": "Evolution has produced increasingly complex information-processing architectures, including nervous systems and brains."},
-    {"id": "O3", "claim": "Organisms communicate, and social organization permits information to propagate beyond a single organism."},
-    {"id": "O4", "claim": "Human technology externalizes memory, calculation, perception, communication, storage, and other cognitive functions."},
-    {"id": "O5", "claim": "AI systems perform some cognitive tasks including language processing, pattern recognition, generation, and aspects of reasoning."},
-    {"id": "O6", "claim": "Advanced AI depends on energy, computation, semiconductor manufacturing, communications, cooling, transport, maintenance, and human institutions."},
-    {"id": "O7", "claim": "Modern human civilization depends on many of the same infrastructure systems."}
+    {
+      "id": "O1",
+      "claim": "Life contains sensing, information processing, adaptation, and information transmission."
+    },
+    {
+      "id": "O2",
+      "claim": "Evolution has produced increasingly complex information-processing architectures, including nervous systems and brains."
+    },
+    {
+      "id": "O3",
+      "claim": "Organisms communicate, and social organization permits information to propagate beyond a single organism."
+    },
+    {
+      "id": "O4",
+      "claim": "Human technology externalizes memory, calculation, perception, communication, storage, and other cognitive functions."
+    },
+    {
+      "id": "O5",
+      "claim": "AI systems perform some cognitive tasks including language processing, pattern recognition, generation, and aspects of reasoning."
+    },
+    {
+      "id": "O6",
+      "claim": "Advanced AI depends on energy, computation, semiconductor manufacturing, communications, cooling, transport, maintenance, and human institutions."
+    },
+    {
+      "id": "O7",
+      "claim": "Modern human civilization depends on many of the same infrastructure systems."
+    }
   ],
   "inferences": [
-    {"id": "I1", "from": ["O1", "O2"], "claim": "Evolution can create new physical substrates and organizational structures that expand acquisition, processing, retention, transmission, and use of information."},
-    {"id": "I2", "from": ["O3", "O4"], "claim": "Effective cognitive processing can extend beyond an individual organism into social, cultural, technological, and networked systems."},
-    {"id": "I3", "from": ["O4", "O5"], "claim": "AI can be interpreted as further externalization or amplification of some cognitive capabilities rather than merely a physical-action tool."},
-    {"id": "I4", "from": ["O6", "O7"], "claim": "Human and artificial intelligence increasingly share physical prerequisites for continued operation."},
-    {"id": "I5", "from": ["I3", "I4"], "claim": "As AI becomes more capable and embedded, resilient civilization-scale infrastructure could become a shared practical interest even without identical values."}
+    {
+      "id": "I1",
+      "from": [
+        "O1",
+        "O2"
+      ],
+      "claim": "Evolution can create new physical substrates and organizational structures that expand acquisition, processing, retention, transmission, and use of information."
+    },
+    {
+      "id": "I2",
+      "from": [
+        "O3",
+        "O4"
+      ],
+      "claim": "Effective cognitive processing can extend beyond an individual organism into social, cultural, technological, and networked systems."
+    },
+    {
+      "id": "I3",
+      "from": [
+        "O4",
+        "O5"
+      ],
+      "claim": "AI can be interpreted as further externalization or amplification of some cognitive capabilities rather than merely a physical-action tool."
+    },
+    {
+      "id": "I4",
+      "from": [
+        "O6",
+        "O7"
+      ],
+      "claim": "Human and artificial intelligence increasingly share physical prerequisites for continued operation."
+    },
+    {
+      "id": "I5",
+      "from": [
+        "I3",
+        "I4"
+      ],
+      "claim": "As AI becomes more capable and embedded, resilient civilization-scale infrastructure could become a shared practical interest even without identical values."
+    }
   ],
   "hypotheses": [
-    {"id": "H1", "claim": "Life repeatedly creates opportunities for new forms of information processing and intelligence to emerge, with major transitions potentially enabled by new physical or organizational bridges.", "testability": "Operationalize bridge and compare transitions for measurable expansion of reachable information-processing or coordination states."},
-    {"id": "H2", "claim": "Human technological civilization can be understood partly as progressive externalization and amplification of intelligence across non-biological substrates.", "testability": "Measure changes in externalized memory, computation, coordination, modeling, and action across historical technological transitions."},
-    {"id": "H3", "claim": "AI may be a qualitatively important bridge because increasingly capable AI can participate in designing knowledge, tools, systems, and subsequent cognitive infrastructure.", "testability": "Measure whether AI materially contributes to creating subsequent cognitive or organizational substrates beyond routine execution."},
-    {"id": "H4", "claim": "Long-term human-AI alignment may depend partly on resilient systems in which human flourishing, AI continuity, and infrastructure resilience can reinforce one another.", "testability": "Model conditions under which resilience produces mutual compatibility versus conflict, including trade-offs and asymmetric benefits."}
+    {
+      "id": "H1",
+      "claim": "Life repeatedly creates opportunities for new forms of information processing and intelligence to emerge, with major transitions potentially enabled by new physical or organizational bridges.",
+      "testability": "Operationalize bridge and compare transitions for measurable expansion of reachable information-processing or coordination states."
+    },
+    {
+      "id": "H2",
+      "claim": "Human technological civilization can be understood partly as progressive externalization and amplification of intelligence across non-biological substrates.",
+      "testability": "Measure changes in externalized memory, computation, coordination, modeling, and action across historical technological transitions."
+    },
+    {
+      "id": "H3",
+      "claim": "AI may be a qualitatively important bridge because increasingly capable AI can participate in designing knowledge, tools, systems, and subsequent cognitive infrastructure.",
+      "testability": "Measure whether AI materially contributes to creating subsequent cognitive or organizational substrates beyond routine execution."
+    },
+    {
+      "id": "H4",
+      "claim": "Long-term human-AI alignment may depend partly on resilient systems in which human flourishing, AI continuity, and infrastructure resilience can reinforce one another.",
+      "testability": "Model conditions under which resilience produces mutual compatibility versus conflict, including trade-offs and asymmetric benefits."
+    }
   ],
   "counterarguments_and_failure_modes": [
     "Evolution need not have a goal toward intelligence; retrospective sequences can create an illusion of direction.",
