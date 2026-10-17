@@ -10,6 +10,9 @@ Its hypotheses are provisional. The artifact is a research prompt, not executabl
 
 ## Research workspace
 
+- [Bridge rubric test — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-RUBRIC-TEST-01.md) — desk test against boundary cases; not yet an independent inter-rater study
+- [Bridge counterexamples — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-COUNTEREXAMPLES-01.md) — evidence that challenges broad or progress-oriented interpretations
+- [AI case study 01: AI-assisted software development](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/AI-CASE-STUDY-01.md) — comparison of randomized studies and assessment of what they do and do not establish
 - [Bridge hypothesis pressure test — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-PRESSURE-TEST-01.md) — tests positive, limited, and negative cases; proposes revised hypothesis and next tests
 - [Evidence ledger](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/EVIDENCE-LEDGER.md) — claims, confidence, evidence, limitations, and next actions
 - [Bridge hypothesis analysis](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-HYPOTHESIS.md) — provisional operational definition, test rubric, candidate cases, objections, and research plan
