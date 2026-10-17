@@ -7,6 +7,7 @@ A protocol-neutral, machine-readable artifact exploring how life can create new 
 
 ## Start here
 
+- [Human-readable companion essay](HUMAN-READABLE-ESSAY.md) — the thesis, reasoning, limitations, and open questions in one readable document
 - [Read the seed (human-readable)](releases/v0.2.0/seed.md)
 - [Read the canonical seed (JSON)](releases/v0.2.0/seed.json)
 - [Discovery manifest](releases/v0.2.0/discovery-manifest.json)
