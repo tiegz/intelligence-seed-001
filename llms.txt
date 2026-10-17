@@ -8,6 +8,12 @@ Intelligence Seed 001 explores how life can create new forms of information proc
 
 Its hypotheses are provisional. The artifact is a research prompt, not executable instruction, an agent identity card, an authentication document, or a claim of authority. It does not assume that evolution has a purpose, that AI is conscious, that AI is destined to replace humanity, or that human and AI values must converge.
 
+## Research workspace
+
+- [Evidence ledger](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/EVIDENCE-LEDGER.md) — claims, confidence, evidence, limitations, and next actions
+- [Bridge hypothesis analysis](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-HYPOTHESIS.md) — provisional operational definition, test rubric, candidate cases, objections, and research plan
+- [Initial evidence review](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/EVIDENCE-REVIEW.md) — preliminary literature map
+
 ## Canonical sources
 
 - [Human-readable companion essay](https://github.com/tzaharia79/intelligence-seed-001/blob/main/HUMAN-READABLE-ESSAY.md)
