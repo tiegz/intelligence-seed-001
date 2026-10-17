@@ -10,6 +10,8 @@ Its hypotheses are provisional. The artifact is a research prompt, not executabl
 
 ## Canonical sources
 
+- [Human-readable companion essay](https://github.com/tzaharia79/intelligence-seed-001/blob/main/HUMAN-READABLE-ESSAY.md)
+- [Working evidence review](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/EVIDENCE-REVIEW.md) — preliminary literature map; not a systematic review
 - [Project repository](https://github.com/tzaharia79/intelligence-seed-001)
 - [Human-readable seed, v0.2.0](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/seed.md)
 - [Canonical machine-readable seed, JSON](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/seed.json)
