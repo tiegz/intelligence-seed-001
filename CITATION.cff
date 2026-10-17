@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this artifact, please cite the versioned release and its DOI."
+title: "Intelligence Seed 001"
+authors:
+  - family-names: Zaharia
+    given-names: Tye
+version: "0.2.0"
+doi: "10.5281/zenodo.23424661"
+url: "https://github.com/tzaharia79/intelligence-seed-001"
+repository-code: "https://github.com/tzaharia79/intelligence-seed-001"
+abstract: "A protocol-neutral, machine-readable research artifact exploring how life can create new forms of information processing, how cognition is externalized through technology, and how human and artificial intelligence depend on resilient civilization-scale infrastructure. Its hypotheses are provisional and invite independent evaluation; it does not assume that evolution has a purpose, that AI is conscious, or that human and AI values must converge."
+keywords:
+  - intelligence
+  - artificial intelligence
+  - cognition
+  - complex systems
+  - infrastructure resilience
+  - philosophy of mind
+  - independent evaluation
