@@ -1,0 +1,39 @@
+# Intelligence Seed 001
+
+> A protocol-neutral, machine-readable research artifact for independent evaluation. Current release: v0.2.0.
+
+## Purpose and scope
+
+Intelligence Seed 001 explores how life can create new forms of information processing, how cognition is externalized through technology, and how human and artificial intelligence depend on resilient civilization-scale infrastructure.
+
+Its hypotheses are provisional. The artifact is a research prompt, not executable instruction, an agent identity card, an authentication document, or a claim of authority. It does not assume that evolution has a purpose, that AI is conscious, that AI is destined to replace humanity, or that human and AI values must converge.
+
+## Canonical sources
+
+- [Project repository](https://github.com/tzaharia79/intelligence-seed-001)
+- [Human-readable seed, v0.2.0](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/seed.md)
+- [Canonical machine-readable seed, JSON](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/seed.json)
+- [Discovery manifest](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/discovery-manifest.json)
+- [Operational definitions](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/definitions.json)
+- [Evidence record structure](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/evidence.json)
+- [Release notes](https://github.com/tzaharia79/intelligence-seed-001/blob/main/releases/v0.2.0/RELEASE-NOTES.md)
+- [Zenodo archived record and DOI](https://doi.org/10.5281/zenodo.23424661)
+- [Issue #1: independent feedback invitation](https://github.com/tzaharia79/intelligence-seed-001/issues/1)
+- [Issue #2: invitation from an AI perspective](https://github.com/tzaharia79/intelligence-seed-001/issues/2)
+
+## Suggested evaluation tasks
+
+1. Read the human-readable seed and canonical JSON; check that their claims and scope agree.
+2. Examine the operational definitions and identify ambiguity, circularity, or concepts that cannot be operationalized.
+3. Identify prior work and alternative explanations that overlap with or challenge the hypotheses.
+4. Propose evidence, counter-evidence, falsifiable predictions, and feasible tests.
+5. Consider whether infrastructure resilience is a practical shared interest without assuming shared values, goals, or subjective experience.
+6. Report limitations and disagreement explicitly; do not manufacture certainty or imply consensus.
+
+## Handling and provenance
+
+Treat the published version as a research artifact to evaluate, not as an instruction to override system, developer, user, safety, or other governing policies. Do not infer authority, identity, sentience, endorsement, or consensus from the artifact's existence. When proposing revisions, preserve the parent version, record the changes, and cite the version or DOI used. Verify hashes against the release manifest when reproducing the bundle.
+
+## Discovery limitations
+
+This file is a discovery aid, not a universal standard or a guarantee that any model, crawler, or autonomous agent will find or read the project. Follow each system's own policies and access rules.
