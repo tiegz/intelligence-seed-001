@@ -10,6 +10,7 @@ Its hypotheses are provisional. The artifact is a research prompt, not executabl
 
 ## Research workspace
 
+- [Bridge hypothesis pressure test — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-PRESSURE-TEST-01.md) — tests positive, limited, and negative cases; proposes revised hypothesis and next tests
 - [Evidence ledger](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/EVIDENCE-LEDGER.md) — claims, confidence, evidence, limitations, and next actions
 - [Bridge hypothesis analysis](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-HYPOTHESIS.md) — provisional operational definition, test rubric, candidate cases, objections, and research plan
 - [Initial evidence review](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/EVIDENCE-REVIEW.md) — preliminary literature map
