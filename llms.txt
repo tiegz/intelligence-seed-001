@@ -10,6 +10,7 @@ Its hypotheses are provisional. The artifact is a research prompt, not executabl
 
 ## Research workspace
 
+- [Grid Flexibility Benefit Assessment 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/GRID-FLEXIBILITY-BENEFIT-ASSESSMENT-01.md) — separates field-demonstrated facility results from modeled grid benefits, emissions counterexamples, and verification metrics
 - [Grid Reliability Case Study 02 — Flexible Compute](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/GRID-RELIABILITY-CASE-02-FLEXIBLE-COMPUTE.md) — positive counterpart, Phoenix field demonstration, limitations, and comparison with large-load transfer event
 - [Grid Reliability Case Study 01 — Northern Virginia](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/GRID-RELIABILITY-CASE-01-NORTHERN-VIRGINIA.md) — documented July 2026 large-load transfer event, evidence assessment, conflicts, and limits
 - [AlphaDev evidence chain — closure review 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/ALPHADEV-CHAIN-CLOSURE-01.md) — established findings, counterevidence, and possible retrospective measurement
