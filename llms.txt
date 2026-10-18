@@ -10,6 +10,8 @@ Its hypotheses are provisional. The artifact is a research prompt, not executabl
 
 ## Research workspace
 
+- [AlphaDev primary-source trace — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/ALPHADEV-PRIMARY-SOURCE-TRACE-01.md) — paper, released artifacts, LLVM review and commit, current implementation, and counterevidence
+- [Project goals and open loops — review 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/PROJECT-GOALS-AND-OPEN-LOOPS-01.md) — tracks completed milestones and unfinished research, outreach, resilience, and versioning work
 - [Documented downstream AI cases — evidence scan 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/AI-DOWNSTREAM-CASES-01.md) — AlphaDev, AlphaFold2, AlphaChip, and AlphaTensor; downstream chain evidence and limitations
 - [Downstream AI development chains — evidence search 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/DOWNSTREAM-AI-CHAINS-01.md) — AlphaFold2, AlphaChip, and experimentally validated AI protein design; evaluates downstream evidence and limitations
 - [Bridge rubric test — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/BRIDGE-RUBRIC-TEST-01.md) — desk test against boundary cases; not yet an independent inter-rater study
