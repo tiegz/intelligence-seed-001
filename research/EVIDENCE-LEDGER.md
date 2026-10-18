@@ -88,3 +88,16 @@ See [full case study](GRID-RELIABILITY-CASE-01-NORTHERN-VIRGINIA.md).
 **Limits:** Single site/cluster in the peer-reviewed demonstration; not evidence of 25% whole-facility or grid-wide reduction. The public abstract does not establish avoided outages, lower bills, reduced infrastructure investment, or scale across all workloads. Google accounts are operator-reported. Flexible demand can shift or rebound later and may transfer load to another grid.
 
 **Comparison:** See [Grid Reliability Case Study 02 — Flexible Compute](GRID-RELIABILITY-CASE-02-FLEXIBLE-COMPUTE.md), compared with Case 01 (Northern Virginia load-transfer event).
+
+
+## Grid flexibility benefits — evidence synthesis (2026-10-18)
+
+**Facility-level claim:** Selected AI workloads can be modulated to reduce a participating cluster's power during defined events while meeting specified service constraints. Evidence: peer-reviewed Phoenix field demonstration on 256-GPU cluster; reported 25% reduction for three hours. https://doi.org/10.1038/s41560-025-01927-1 ; artifacts: https://github.com/ai-emerald/emerald-ai-demo-may-2025.
+
+**Grid-level claim:** Flexibility may make additional large loads compatible with existing system headroom and may ease congestion/contingency operations. Evidence: modeled PJM case estimates up to 32 GW of flexible new load for the 2023 system with curtailment of 0.1% annual energy during 1.2% of hours; limited by relatively mild weather year and model assumptions. https://scholars.duke.edu/publication/1917768. PNNL models potential congestion and contingency services: https://www.pnnl.gov/publications/potential-data-center-controls-grid-services.
+
+**Cost/emissions counterweight:** 2026 multi-region modeling finds system costs fall under modeled flexibility scenarios but emissions may increase up to 3% in Mid-Atlantic/WECC cases and fall up to 40% in Texas scenarios with higher renewable availability. https://doi.org/10.1016/j.isci.2026.116497. Thus, lower costs do not imply lower emissions.
+
+**Status:** Facility power reduction = demonstrated in one setup. Grid-wide benefits = modeled/plausible, not yet verified as realized benefits in an operational outcome audit. Consumer bill savings, avoided blackouts, and universal net benefit = not established. Emissions = conditional and region-dependent.
+
+Full synthesis and evaluation protocol: [Grid Flexibility Benefit Assessment 01](GRID-FLEXIBILITY-BENEFIT-ASSESSMENT-01.md).
