@@ -141,3 +141,12 @@ The first documented case is the July 22, 2026 Northern Virginia large-load tran
 Full source trace, limits, shared-benefit/conflict analysis, and follow-up questions: [Grid Reliability Case Study 01 — Northern Virginia](GRID-RELIABILITY-CASE-01-NORTHERN-VIRGINIA.md).
 
 The case supports a narrow operational conclusion: the behavior of large computational loads can affect grid dynamics, and grid events can affect how those facilities draw power. It does not isolate AI workloads, establish that AI growth caused the incident, or prove unified human–AI interests. A useful next contrast is evidence that data-centre flexibility measurably helps grid operations, alongside continued investigation of final technical findings and standards changes.
+
+
+## Positive counterpart — flexible compute field demonstration
+
+The strongest positive case found in this pass is a peer-reviewed *Nature Energy* field demonstration in Phoenix, Arizona. A 256-GPU cluster running representative AI workloads reportedly reduced power use by 25% for three hours during utility-coordinated peak events with APS and SRP, while maintaining AI quality-of-service guarantees and without hardware modifications or energy storage. Paper: https://doi.org/10.1038/s41560-025-01927-1. EPRI's DCFlex program lists related multi-site demonstrations: https://dcflex.epri.com/demonstrations.
+
+Google separately reports ML-workload demand response during three grid events with Omaha Public Power District and other utility partnerships: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/how-were-making-data-centers-more-flexible-to-benefit-power-grids/.
+
+The evidence supports technical feasibility for selected workloads, not proof of regional reliability gains, consumer savings, universal scalability, or a reduction in blackouts. See [Grid Reliability Case Study 02 — Flexible Compute](GRID-RELIABILITY-CASE-02-FLEXIBLE-COMPUTE.md) for a comparison with the Northern Virginia load-transfer event and a plan for stronger grid-level evaluation.
