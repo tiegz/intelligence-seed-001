@@ -150,3 +150,12 @@ The strongest positive case found in this pass is a peer-reviewed *Nature Energy
 Google separately reports ML-workload demand response during three grid events with Omaha Public Power District and other utility partnerships: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/how-were-making-data-centers-more-flexible-to-benefit-power-grids/.
 
 The evidence supports technical feasibility for selected workloads, not proof of regional reliability gains, consumer savings, universal scalability, or a reduction in blackouts. See [Grid Reliability Case Study 02 — Flexible Compute](GRID-RELIABILITY-CASE-02-FLEXIBLE-COMPUTE.md) for a comparison with the Northern Virginia load-transfer event and a plan for stronger grid-level evaluation.
+
+
+## Benefit assessment update — measured outcomes vs modeled benefits
+
+The current evidence supports a narrow but useful claim: selected AI workloads can be modulated to reduce participating cluster power during defined events while meeting tested service constraints. The Phoenix field demonstration reports 25% reduction for three hours on a 256-GPU cluster (Nature Energy, https://doi.org/10.1038/s41560-025-01927-1; public artifacts: https://github.com/ai-emerald/emerald-ai-demo-may-2025).
+
+System-wide benefits are less directly established. A 2026 PJM modeling case estimates up to 32 GW of additional flexible load under 2023 system assumptions with curtailment of 0.1% of annual energy and during 1.2% of hours; authors note a relatively mild-weather data limitation (https://scholars.duke.edu/publication/1917768). Multi-region modeling finds system costs can fall while emissions may rise in some generation mixes (https://doi.org/10.1016/j.isci.2026.116497). PNNL modeling identifies possible congestion and contingency benefits but is not a real-grid outcome audit (https://www.pnnl.gov/publications/potential-data-center-controls-grid-services).
+
+Full benefit ladder, counterexamples, metrics, and verification plan: [Grid Flexibility Benefit Assessment 01](GRID-FLEXIBILITY-BENEFIT-ASSESSMENT-01.md). Current assessment: facility-level power reduction is demonstrated for one setup; grid-level benefits are supported by models but need operating-event verification; consumer savings and avoided blackouts are not yet established; emissions benefits are conditional.
