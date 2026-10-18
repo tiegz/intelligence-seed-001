@@ -29,6 +29,8 @@
 | E-11 | Resilience can sometimes support human welfare and reliable AI operations simultaneously, without identical values. | Moderate as a conditional systems hypothesis; case-dependent. | OECD infrastructure resilience guidance; NIST AI RMF. | A shared dependency can also create conflict over resource allocation, control, or acceptable risk. | Identify cases where goals align and conflict; define "shared practical interest" narrowly. |
 | E-12 | Life as a whole is best described as an intelligence generator, or intelligence is a direction of existence. | Not established; not treated as an empirical conclusion. | No evidence in this ledger establishes a universal direction or purpose. | Teleological interpretation, survivorship bias, ambiguity in "intelligence," and evolutionary counterexamples. | Keep as a motivating metaphor or reject as an empirical claim unless separately operationalized. |
 
+| E-13 | Reinforcement learning can discover low-level sorting routines that outperform selected human baselines in specified benchmarks, and some were adapted and integrated into LLVM libc++. | High for this narrow, scoped claim. | Mankowitz et al. (2023); AlphaDev source/tests; LLVM review D118029 and commit 194d196; current LLVM source retains branchless small-sort logic. | Performance is type-, comparator-, workload-, compiler-, and architecture-dependent. Neri (2023) challenges a narrow shortest-program claim for Sort3; no downstream possibility-space effect established. | Trace real-world usage and end-to-end effects; keep global optimality and future-capability claims open. |
+
 ## Evidence quality notes
 
 1. A source may support only one component of a claim. Do not cite it as proof of the seed's complete thesis.
@@ -45,3 +47,7 @@
 3. Build a case matrix that includes examples, counterexamples, and borderline cases.
 4. Research AI-assisted creation of future cognitive infrastructure with explicit attribution standards.
 5. Review the sources in full and add counterarguments before treating this as a mature evidence review.
+
+## AlphaDev source-trace update (2026-10-18)
+
+See [AlphaDev Primary-Source Trace — Round 1](ALPHADEV-PRIMARY-SOURCE-TRACE-01.md). The evidence supports a bounded algorithmic capability improvement and adoption into shared software infrastructure. It does not establish a general cognitive transition or altered future possibility space. A 2023 note by Cassio Neri challenges a narrow optimality claim about Sort3; this should remain recorded as counterevidence to “globally best” framing, not as blanket refutation of integration or benchmark results.
