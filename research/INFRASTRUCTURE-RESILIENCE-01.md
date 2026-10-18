@@ -132,3 +132,12 @@ Source: NIST SP 800-239 (IPD): https://csrc.nist.gov/pubs/sp/800/239/ipd
 ### Evidence discipline update
 
 The IEA is a high-value synthesis source for global trends, but its totals and projections should be paired with grid-operator, utility, local-government, facility, and outage records when analyzing a specific place. NIST's draft is a threat-analysis framework, not an incident dataset. For each case study, separate (a) measured facts, (b) forecasts, (c) developer/operator claims, and (d) our inferences.
+
+
+## Case study added — Grid Reliability Case 01
+
+The first documented case is the July 22, 2026 Northern Virginia large-load transfer event. PJM reports that a 230 kV line fault was followed by roughly 3,800 MW of data-centre load disconnecting and transferring to backup power, creating voltage/frequency disturbances. PJM says operators restored the Balancing Authority Area Control Error limit within nine minutes and reported no significant overall reliability impact. This is a disturbance successfully managed, not a reported widespread blackout.
+
+Full source trace, limits, shared-benefit/conflict analysis, and follow-up questions: [Grid Reliability Case Study 01 — Northern Virginia](GRID-RELIABILITY-CASE-01-NORTHERN-VIRGINIA.md).
+
+The case supports a narrow operational conclusion: the behavior of large computational loads can affect grid dynamics, and grid events can affect how those facilities draw power. It does not isolate AI workloads, establish that AI growth caused the incident, or prove unified human–AI interests. A useful next contrast is evidence that data-centre flexibility measurably helps grid operations, alongside continued investigation of final technical findings and standards changes.
