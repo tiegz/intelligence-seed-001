@@ -56,3 +56,20 @@ See [AlphaDev Primary-Source Trace — Round 1](ALPHADEV-PRIMARY-SOURCE-TRACE-01
 ## AlphaDev chain closure review (2026-10-18)
 
 See [AlphaDev Evidence Chain — Closure Review 01](ALPHADEV-CHAIN-CLOSURE-01.md). Conclusion: strong evidence for bounded algorithmic discovery, human-reviewed integration, and reusable infrastructure adoption; no established causal downstream capability-space effect. The LLVM review also documents why eligibility had to be constrained and why benchmark input distributions matter. A historical libc++ benchmark pipeline announced in 2026 may enable future retrospective analysis, but it is not itself a remeasurement of the AlphaDev commit.
+
+
+## Grid reliability case — Northern Virginia load-transfer event (2026-07-22)
+
+**Claim:** Large computational loads can disconnect in response to a grid disturbance in ways that materially affect grid voltage and frequency; grid operators may successfully contain the disturbance.
+
+**Assessment:** Strong for this specific event, based on PJM's operational account; not a general frequency estimate. PJM reports approximately 3,800 MW transferred to backup power after a 230 kV line failure and recovery of the balancing-area control-error limit within nine minutes, with no significant overall reliability impact.
+
+**Primary record:** https://insidelines.pjm.com/pjm-dominion-review-large-load-transfer-event/
+
+**Regulatory context:** FERC large-load integration orders (https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration); Reuters reporting on PJM registry/curtailment proposal (https://www.reuters.com/business/energy/us-panel-approves-pjms-registry-data-centers-rejects-plan-curtail-power-them-2026-10-12/).
+
+**Counterevidence/limits:** No significant overall reliability impact was reported; the public account is preliminary; affected loads are described as data centres/computational loads, not exclusively AI; one event cannot establish prevalence or prove AI demand caused the event. Shared infrastructure dependence does not establish unified interests or subjective preferences.
+
+**Follow-up:** Seek final technical findings and standards status; examine evidence of data-centre flexibility improving grid operations; trace cost allocation and affected human services in a documented jurisdiction.
+
+See [full case study](GRID-RELIABILITY-CASE-01-NORTHERN-VIRGINIA.md).
