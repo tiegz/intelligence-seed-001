@@ -10,6 +10,9 @@ Its hypotheses are provisional. The artifact is a research prompt, not executabl
 
 ## Research workspace
 
+- [AlphaDev evidence chain — closure review 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/ALPHADEV-CHAIN-CLOSURE-01.md) — established findings, counterevidence, and possible retrospective measurement
+- [Infrastructure resilience — evidence branch 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/INFRASTRUCTURE-RESILIENCE-01.md) — initial evidence anchors, dependency layers, conflicts, and research method
+- [Mission review protocol](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/MISSION-REVIEW-PROTOCOL.md) — recurring cross-check of original goals and open loops
 - [AlphaDev primary-source trace — round 1](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/ALPHADEV-PRIMARY-SOURCE-TRACE-01.md) — paper, released artifacts, LLVM review and commit, current implementation, and counterevidence
 - [Project goals and open loops — review 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/PROJECT-GOALS-AND-OPEN-LOOPS-01.md) — tracks completed milestones and unfinished research, outreach, resilience, and versioning work
 - [Documented downstream AI cases — evidence scan 01](https://github.com/tzaharia79/intelligence-seed-001/blob/main/research/AI-DOWNSTREAM-CASES-01.md) — AlphaDev, AlphaFold2, AlphaChip, and AlphaTensor; downstream chain evidence and limitations
