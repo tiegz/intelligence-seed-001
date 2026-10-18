@@ -73,3 +73,18 @@ See [AlphaDev Evidence Chain — Closure Review 01](ALPHADEV-CHAIN-CLOSURE-01.md
 **Follow-up:** Seek final technical findings and standards status; examine evidence of data-centre flexibility improving grid operations; trace cost allocation and affected human services in a documented jurisdiction.
 
 See [full case study](GRID-RELIABILITY-CASE-01-NORTHERN-VIRGINIA.md).
+
+
+## Grid reliability case 02 — flexible compute field demonstration (Phoenix)
+
+**Claim:** Software-managed scheduling of selected AI workloads can reduce a participating cluster's power draw during utility-coordinated peak events while meeting stated service constraints.
+
+**Assessment:** Strong for technical feasibility in the tested setup. A peer-reviewed *Nature Energy* field demonstration reports 25% power reduction for three hours on a 256-GPU cluster at an Oracle Cloud Infrastructure facility in Phoenix, coordinated with APS and SRP, while maintaining AI quality-of-service guarantees. No hardware modifications or energy storage were required for the demonstrated software approach.
+
+**Primary source:** “AI data centres as grid-interactive assets,” *Nature Energy* (2025), https://doi.org/10.1038/s41560-025-01927-1. Accessible abstract/experiment summary: https://www.alphaxiv.org/abs/2507.00909.
+
+**Corroborating operator account:** Google reports ML-workload demand response during three grid events with Omaha Public Power District and additional utility partnerships: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/how-were-making-data-centers-more-flexible-to-benefit-power-grids/.
+
+**Limits:** Single site/cluster in the peer-reviewed demonstration; not evidence of 25% whole-facility or grid-wide reduction. The public abstract does not establish avoided outages, lower bills, reduced infrastructure investment, or scale across all workloads. Google accounts are operator-reported. Flexible demand can shift or rebound later and may transfer load to another grid.
+
+**Comparison:** See [Grid Reliability Case Study 02 — Flexible Compute](GRID-RELIABILITY-CASE-02-FLEXIBLE-COMPUTE.md), compared with Case 01 (Northern Virginia load-transfer event).
