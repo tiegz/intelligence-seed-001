@@ -95,3 +95,13 @@ Periodically check that the machine-readable seed, human-readable essay, evidenc
 ## 5. Governing discipline
 
 The project is not trying to prove a predetermined destiny for life or AI. It is trying to make a set of connected ideas legible, testable, discoverable, and revisable. Evidence should be allowed to narrow, split, or reject a hypothesis. Publication, adoption, and discoverability are milestones; they are not evidence that the thesis is true.
+
+
+## Mission review log — 2026-10-18 (review 02)
+
+- **Sequence check:** AlphaDev source chain reviewed to its current evidentiary limit; infrastructure-resilience branch restarted; human outreach remains next, not yet begun.
+- **New result:** AlphaDev supports bounded algorithmic discovery and human-reviewed integration into shared infrastructure. Downstream capability-space change remains unestablished.
+- **Branch balance:** Resilience has been restored as an independent research branch. Current evidence anchors include IEA's 2026 energy-and-AI analysis, the U.S. semiconductor supply-chain review, and NIST's AI data-centre security draft.
+- **Open loops:** No independent AlphaDev impact study is confirmed; no systematic resilience case study has yet been completed; no external human review or community submission is confirmed.
+- **Next steps:** (1) choose and document a concrete resilience case with primary local/operational evidence; (2) maintain shared-benefit and conflict columns; (3) prepare human-review material after this branch has a defensible first case study.
+- **Guardrail:** This review records progress and open questions, not endorsement or proof of the seed thesis.
