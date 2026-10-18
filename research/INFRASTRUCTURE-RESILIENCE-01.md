@@ -107,3 +107,28 @@ Avoid a single vague “resilience score” until measures are operationally def
 The initial evidence supports a narrow, practical premise: AI services depend on material systems whose reliability, concentration, and resource demands can be measured, and these systems also support many human activities. Whether resilience constitutes a “shared interest” must be demonstrated case by case and should be stated operationally: reliability, access, affordability, safety, or recovery—not presumed as a shared subjective value.
 
 This branch should remain independent of the AlphaDev case. A positive result in algorithm discovery cannot establish the infrastructure thesis, and infrastructure dependence cannot establish the bridge hypothesis.
+
+
+## Evidence update — IEA 2026 and NIST draft (checked 2026-10-18)
+
+### E-IR-05 — Newer IEA estimates update the 2025 baseline
+
+The IEA's April 2026 report states that global data-centre electricity consumption grew 17% in 2025 and AI-focused data-centre consumption grew 50%. Its updated central projection is about 485 TWh for all data centres in 2025, rising to 950 TWh in 2030 (roughly 3% of global electricity demand). It also emphasizes improving energy efficiency per AI task while total demand rises because of uptake and increasingly energy-intensive uses.
+
+Sources:
+- IEA (2026), *Key Questions on Energy and AI*, executive summary: https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
+- Report overview and publication date (16 April 2026): https://www.iea.org/reports/key-questions-on-energy-and-ai
+
+**Interpretation:** Use the newer 2026 figures when describing current demand, and preserve the 2025 report as a dated prior estimate rather than silently blending the two vintages. The report says 2026 data are estimates; the projection is a scenario, not a certainty. The rise in total demand does not contradict lower energy per individual task: total workload volume, task mix, and efficiency can move in different directions.
+
+### E-IR-06 — AI infrastructure security has a developing technical framework
+
+NIST's initial public draft SP 800-239, published 27 July 2026, examines AI data-centre security across architecture, hardware, software, workflows, and storage. The public comment period closed 25 September 2026; the document remains identified as an initial public draft in the source reviewed here.
+
+Source: NIST SP 800-239 (IPD): https://csrc.nist.gov/pubs/sp/800/239/ipd
+
+**Interpretation:** This gives the project a structured starting point for security and operational dependencies. It is draft guidance, not proof that any particular facility is resilient or that the recommendations are universally validated.
+
+### Evidence discipline update
+
+The IEA is a high-value synthesis source for global trends, but its totals and projections should be paired with grid-operator, utility, local-government, facility, and outage records when analyzing a specific place. NIST's draft is a threat-analysis framework, not an incident dataset. For each case study, separate (a) measured facts, (b) forecasts, (c) developer/operator claims, and (d) our inferences.
